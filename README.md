@@ -18,7 +18,7 @@ A Telegram bot that logs phone numbers from user interactions. This bot can be u
 
 1. **Clone or Download** this repository:
    ```bash
-   git clone https://github.com/yourusername/TelegramPhoneNumberLoggerBot.git
+   git clone https://github.com/EnesKeremAYDIN/TelegramPhoneNumberLoggerBot.git
    cd TelegramPhoneNumberLoggerBot
    ```
 
